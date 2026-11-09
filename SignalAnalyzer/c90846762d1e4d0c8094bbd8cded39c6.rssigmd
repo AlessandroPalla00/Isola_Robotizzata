@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>c90846762d1e4d0c8094bbd8cded39c6</Id>
+  <Name>Recording-41</Name>
+  <EventCount>43410</EventCount>
+  <StartedUtc>2025-12-02T14:47:25.9321903Z</StartedUtc>
+  <EndedUtc>2025-12-02T14:54:26.8059866Z</EndedUtc>
+  <TotalTime>128.808</TotalTime>
+  <Signals>
+    <Signal index="0" id="RobotStudio.ControllerSource\{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\ROB_1\MotionSignal\3" dataType="Number" displayPath="Segnali controller\#{3E8A2A4C-A9F1-46D4-A225-90EB10D735DB}\Controller_ROBOT_1\Energia totale del motore" interpolationType="Continuous" quantity="Energy" tag="Derived" />
+    <Signal index="1" id="RobotStudio.ControllerSource\{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\ROB_1\MotionSignal\8083" dataType="Number" displayPath="Segnali controller\#{3E8A2A4C-A9F1-46D4-A225-90EB10D735DB}\Controller_ROBOT_1\Potenza motore totale" interpolationType="Continuous" quantity="Power" tag="MotionSignal" />
+    <Signal index="2" id="RobotStudio.ControllerSource\{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\ROB_1\MotionSignal\3" dataType="Number" displayPath="Segnali controller\#{59D9D462-17E4-4B5F-B91B-01A212DC8316}\Controller_ROBOT_2\Energia totale del motore" interpolationType="Continuous" quantity="Energy" tag="Derived" />
+    <Signal index="3" id="RobotStudio.ControllerSource\{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\ROB_1\MotionSignal\8083" dataType="Number" displayPath="Segnali controller\#{59D9D462-17E4-4B5F-B91B-01A212DC8316}\Controller_ROBOT_2\Potenza motore totale" interpolationType="Continuous" quantity="Power" tag="MotionSignal" />
+    <Signal index="4" id="RobotStudio.ControllerSource\{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\ROB_1\MotionSignal\9880" dataType="Number" displayPath="Segnali controller\#{3E8A2A4C-A9F1-46D4-A225-90EB10D735DB}\Controller_ROBOT_1\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_1]\TCP\Accelerazione lineare in universale" interpolationType="Continuous" quantity="Acceleration" tag="MotionSignal" />
+    <Signal index="5" id="RobotStudio.ControllerSource\{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\ROB_1\MotionSignal\1" dataType="Number" displayPath="Segnali controller\#{3E8A2A4C-A9F1-46D4-A225-90EB10D735DB}\Controller_ROBOT_1\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_1]\TCP\Massima accelerazione lineare in universale" interpolationType="Discrete" quantity="Acceleration" tag="MotionSignal" />
+    <Signal index="6" id="RobotStudio.ControllerSource\{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\ROB_1\MotionSignal\9880" dataType="Number" displayPath="Segnali controller\#{59D9D462-17E4-4B5F-B91B-01A212DC8316}\Controller_ROBOT_2\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_2]\TCP\Accelerazione lineare in universale" interpolationType="Continuous" quantity="Acceleration" tag="MotionSignal" />
+    <Signal index="7" id="RobotStudio.ControllerSource\{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\ROB_1\MotionSignal\1" dataType="Number" displayPath="Segnali controller\#{59D9D462-17E4-4B5F-B91B-01A212DC8316}\Controller_ROBOT_2\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_2]\TCP\Massima accelerazione lineare in universale" interpolationType="Discrete" quantity="Acceleration" tag="MotionSignal" />
+    <Signal index="8" id="RobotStudio.ControllerSource\{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\ROB_1\MotionSignal\9879" dataType="Number" displayPath="Segnali controller\#{B5DF4AA4-EC2E-405E-834A-63A5994584C1}\Controller_ROBOT_2\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_2]\TCP\Velocità di orientamento in wobj attuale" interpolationType="Continuous" quantity="AngularVelocity" tag="MotionSignal" />
+    <Signal index="9" id="RobotStudio.ControllerSource\{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\ROB_1\MotionSignal\9879" dataType="Number" displayPath="Segnali controller\#{E7D8D6EA-8E24-4D1C-9503-B98A9EA1EE53}\Controller_ROBOT_1\Unità meccaniche\ROB_1 [IRB4600_20_250_C_01_ROBOT_1]\TCP\Velocità di orientamento in wobj attuale" interpolationType="Continuous" quantity="AngularVelocity" tag="MotionSignal" />
+  </Signals>
+  <Sources>
+    <Source type="Station" id="{38b6d910-e373-49c1-b13c-c58ff6fb29ad}" displayName="Prova_Progetto_Layout" />
+  </Sources>
+</Metadata>

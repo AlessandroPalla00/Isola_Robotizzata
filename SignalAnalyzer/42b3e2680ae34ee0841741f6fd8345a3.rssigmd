@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>42b3e2680ae34ee0841741f6fd8345a3</Id>
+  <Name>Recording-6</Name>
+  <EventCount>1</EventCount>
+  <StartedUtc>2025-11-23T15:52:25.9004736Z</StartedUtc>
+  <EndedUtc>2025-11-23T15:52:29.4163518Z</EndedUtc>
+  <TotalTime>0</TotalTime>
+  <Signals />
+  <Sources>
+    <Source type="Station" id="{38b6d910-e373-49c1-b13c-c58ff6fb29ad}" displayName="Prova_Progetto_Layout" />
+  </Sources>
+</Metadata>
